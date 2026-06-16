@@ -53,6 +53,7 @@ This project addresses these challenges using predictive analytics and business 
 # 📂 Project Structure
 
 Sales-Forecasting-Business-Intelligence-Platform/
+```
 
 ├── data/
 │ ├── raw/
@@ -81,6 +82,7 @@ Sales-Forecasting-Business-Intelligence-Platform/
 ├── README.md
 └── LICENSE
 
+```
 ---
 
 # 📊 Key Features
