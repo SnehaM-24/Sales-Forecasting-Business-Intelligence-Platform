@@ -1,12 +1,10 @@
-Python
-SQL
-MySQL
-Power BI
-Excel
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-Learn
-Git
-GitHub
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+prophet
+joblib
+openpyxl
+jupyter
+ipykernel
